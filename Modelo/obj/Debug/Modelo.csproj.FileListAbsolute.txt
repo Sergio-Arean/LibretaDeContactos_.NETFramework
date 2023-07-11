@@ -1,0 +1,6 @@
+C:\Users\sergi\Desktop\Programación\Invierno 23\MiniProyecto - Agenda de Contactos\.NET Framework\LibretaDeContactosApp\Modelo\bin\Debug\Modelo.dll
+C:\Users\sergi\Desktop\Programación\Invierno 23\MiniProyecto - Agenda de Contactos\.NET Framework\LibretaDeContactosApp\Modelo\bin\Debug\Modelo.pdb
+C:\Users\sergi\Desktop\Programación\Invierno 23\MiniProyecto - Agenda de Contactos\.NET Framework\LibretaDeContactosApp\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\sergi\Desktop\Programación\Invierno 23\MiniProyecto - Agenda de Contactos\.NET Framework\LibretaDeContactosApp\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Programación\Invierno 23\MiniProyecto - Agenda de Contactos\.NET Framework\LibretaDeContactosApp\Modelo\obj\Debug\Modelo.dll
+C:\Users\sergi\Desktop\Programación\Invierno 23\MiniProyecto - Agenda de Contactos\.NET Framework\LibretaDeContactosApp\Modelo\obj\Debug\Modelo.pdb
