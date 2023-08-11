@@ -20,11 +20,25 @@
 
 ✔️ Operaciones CRUD (Create - Read - Update - Delete)
 
-✔️ Operaciones de búsqueda/filtrado en tabla de consulta.
+✔️ Operaciones de búsqueda/filtrado en tabla de consulta
 
-✔️ Procedimientos almacenados.
+✔️ Validaciones
+
+✔️ Procedimientos almacenados
 
 ✔️ Arquitectura en Capas
+
+
+------------
+
+🎬 **Visualiza la aplicación aquí:**
+
+
+
+https://github.com/Sergio-Arean/LibretaDeContactos_.NETFramework/assets/101679332/872e5f55-cd3e-4dcc-971b-f8a1469046f1
+
+
+
 
 
 ## Inicio
